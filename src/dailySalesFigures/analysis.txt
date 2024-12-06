@@ -1,0 +1,13 @@
+analysis
+
+Steffano Orrego
+12/5/24
+COMP SCI CSC 120 b1
+
+1 - 10 Hours, divided into two sessions in two days. Included writing the code, testing and debugging took the longest amount of time. Understanding the problem requirements designing classes, was quite simple.
+
+2 - No one directly helped me. I referred to online documentation and resources on stack overflow, related to similar programming issues and information  on  libraries to help be used in the project .
+
+3- Most difficult part of the project was implementing error handling and unexpected scenarios. FileNotFoundException , correcting and handling filepaths, making sure the text file is in the right correct working directory. The correct parsing of input data, Ensuring proper encapsulation, As well ensuring the project run.
+
+4- To convince myself that the program works, I used several tests using different versions of the stores.txt file. I tested with correct data formats, 0 cases or only one store. Incorrect data formats. I also add comments during the driver program, project 5 main to describe the current state and how it is.
